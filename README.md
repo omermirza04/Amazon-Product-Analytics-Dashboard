@@ -19,8 +19,6 @@ Interactive dashboard analyzing 1.35K+ Amazon products and 27M+ ratings to uncov
 
 - Power BI (data modeling, DAX measures, interactive visuals)
 
-*(update this section to match your actual stack — e.g., SQL, Excel, Python)*
-
 ## 📁 Dataset
 
 Amazon products dataset with fields: product name, category, actual price, discounted price, discount %, rating, rating count.
